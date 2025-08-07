@@ -1,0 +1,1 @@
+/*This file is only for tailwind autocompletation in vscode. Delete it is safe.*/
